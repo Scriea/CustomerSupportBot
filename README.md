@@ -79,3 +79,8 @@ This repo is currently under developement by me :). You can help me if you want 
 - MultiModal Support: Enabling Visual and Speech Inputs 
 - Sentiment Analysis Tool: For analyzing the sentiment of customer queries.
 
+
+### References:
+
+ - [RAG-AGENT](https://medium.com/the-ai-forum/build-a-reliable-rag-agent-using-langgraph-2694d55995cd)
+ - [Customer_Support_Example](https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/#example-conversation)
